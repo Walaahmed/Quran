@@ -1,63 +1,35 @@
-# Afak Al Tamayuz – React Website
-
-A modern frontend rebuild of **Afak Al Tamayuz** official website using **React** and modern web technologies.
-
-This project replaces the original WordPress website with a faster, more maintainable, and scalable **React-based frontend**, while preserving the original content and functionality.
-
+# Welcome to your  project
+# 📖 مصحف النور - Quran Light
+## Project info
+موقع إسلامي متكامل مخصص لتلاوة القرآن الكريم والأذكار، صدقة جارية على روح **أحمد ربيع** و**إسلام أحمد ربيع**.
 ---
-
-##  What technologies are used for this project?
-
-This project is built with:
-
-* **Vite**
-* **TypeScript**
-* **React**
-* **shadcn/ui**
-* **Tailwind CSS**
-
-
-##  Features
-
-* Modern and responsive UI
-* Clean and scalable component structure
-* Smooth navigation between pages
-* High performance compared to WordPress
-* Fully responsive across all devices
-* Working internal navigation and external links
-* Official company social media links included
-
----
-
-## 📄 Pages
-
-* Home
-* About Us
-* Services
-* Contact Us
-
-(All sections from the original website are included)
-
-
-
-## ▶️ Run the Project Locally
-
-```bash
-npm install
-npm run dev
-```
-
-
-
-
- Developer
-
-**Walaa Ahmed Rabia**
-Frontend React Developer
-
----
-
-© Afak Al Tamayuz. All rights reserved.
-
-"# ATC_WEB" 
-"# Quran" 
+## 🌟 المميزات الرئيسية
+There are several ways of editing your application.
+### 📕 القرآن الكريم
+- تلاوة كاملة للقرآن الكريم مع إمكانية الاستماع بأصوات قراء محترفين
+- اختيار من 7 قراء مشهورين (مشاري العفاسي، محمود خليل الحصري، عبد الباسط عبد الصمد، وغيرهم)
+- محرك بحث قوي للبحث عن الآيات والسور
+- عرض تفسير الآيات وحفظ المواضع المفضلة
+### 🤲 الأذكار
+- أذكار الصباح والمساء بصوت وكتابة
+- عداد تسبيح تفاعلي لتتبع الأذكار
+- تذكيرات منتظمة بالأذكار اليومية
+- واجهة سهلة الاستخدام بتصميم إسلامي جميل
+### ⏮️ الختمة التفاعلية
+- تتبع تقدمك في ختم القرآن الكريم (تقسيم إلى 30 جزء)
+- عرض البار التقدمي مع نسبة الإكمال
+- إهداء ثواب الختمة إلى أحبائك أو أسماء مخصصة
+- احتفال مميز عند إكمال الختمة بنجاح
+### 💝 إهداء الثواب
+- صفحة مخصصة لإهداء ثواب قراءتك للأحبين
+- إمكانية إضافة نوايا وأسباب الإهداء
+- الدعاء للمُهدى إليه بالرحمة والمغفرة
+### 🕯️ السبحة الإلكترونية
+- عداد تسبيح ديجيتالي تفاعلي
+- إمكانية تخصيص عدد الحبات
+- تتبع إحصائيات التسبيح اليومية
+Follow these steps:
+### الصفحة الرئيسية
+ابدأ من الصفحة الرئيسية واختر الميزة التي تريد استخدامها من الأيقونات الأربع 
+**مصحف النور © 2025**  
+صُنع بـ ❤️ ودعاء
