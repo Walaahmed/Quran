@@ -60,3 +60,4 @@ Frontend React Developer
 © Afak Al Tamayuz. All rights reserved.
 
 "# ATC_WEB" 
+"# Quran" 
